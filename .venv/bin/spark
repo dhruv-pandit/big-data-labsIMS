@@ -1,3 +1,0 @@
-#!/Users/dhruvnovaims/Library/Mobile Documents/com~apple~CloudDocs/Documents/GitHub/big-data-labsIMS/.venv/bin/python3.12
-from spark import spark_admin
-spark_admin.main()
